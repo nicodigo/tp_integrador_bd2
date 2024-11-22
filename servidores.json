@@ -1,0 +1,15 @@
+
+{
+    "servers":{
+        "nodo1":{
+            "host": "192.168.0.9",
+            "puerto": "3050",
+            "path": "/var/lib/firebird/3.0/data/prueba.fdb"
+        },
+        "nodo2":{
+            "host": "192.168.0.128",
+            "puerto": "3050",
+            "path": "/var/lib/firebird/3.0/data/prueba.fdb"
+        }
+    }
+}
